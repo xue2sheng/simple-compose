@@ -1,5 +1,7 @@
 # Simple Compose Example
 
+Review gradle files to choose the correct java version expected, i.e. 17. Do not hesitate to update your local gradle and kotlin compiler too.
+
 To build just:
 
         gradle packageUberJarForCurrentOS
